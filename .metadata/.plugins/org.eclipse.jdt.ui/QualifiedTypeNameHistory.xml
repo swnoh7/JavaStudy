@@ -2,7 +2,34 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="OOP기초.Person"/>
+    <fullyQualifiedTypeName name="통장관리프로그램.Bankbook"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+    <fullyQualifiedTypeName name="학생정보관리프로그램.Student"/>
+    <fullyQualifiedTypeName name="PokemonGame.pokemon"/>
+    <fullyQualifiedTypeName name="PokemonGame.Pokemon"/>
+    <fullyQualifiedTypeName name="PokemonGame.pokemonMain"/>
+    <fullyQualifiedTypeName name="객체배열.Pokemon"/>
+    <fullyQualifiedTypeName name="ArrayList.Student"/>
+    <fullyQualifiedTypeName name="javax.lang.model.util.ElementScanner14"/>
+    <fullyQualifiedTypeName name="javazoom.jl.player.MP3Player"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="MVC.MusicController"/>
+    <fullyQualifiedTypeName name="mp3Player.Music"/>
+    <fullyQualifiedTypeName name="MVC.Music"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="상속기초.Parent"/>
+    <fullyQualifiedTypeName name="상속기초.Child"/>
+    <fullyQualifiedTypeName name="닌텐도게임.Pokemon"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="닌텐도게임.Mario"/>
+    <fullyQualifiedTypeName name="닌텐도게임.Zelda"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="닌텐도게임.GameChip"/>
+    <fullyQualifiedTypeName name="닌텐도게임.Dongmul"/>
+    <fullyQualifiedTypeName name="월급계산프로그램.PartTimeEmployee"/>
+    <fullyQualifiedTypeName name="월급계산프로그램.RegularEmployee"/>
+    <fullyQualifiedTypeName name="월급계산프로그램.TempEmployee"/>
+    <fullyQualifiedTypeName name="java.awt.print.Printable"/>
 </qualifiedTypeNameHistroy>

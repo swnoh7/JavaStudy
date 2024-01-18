@@ -9,9 +9,9 @@ public class Javafestival_1 {
 		Random ran = new Random();
 		
 		int[] array = new int[8];
-		int max = 0;
 		
 		System.out.print("배열에 있는 모든 값 : ");
+		
 		
 		for(int i =0; i < array.length; i++) {
 			array[i] = ran.nextInt(100)+1;
@@ -19,6 +19,8 @@ public class Javafestival_1 {
 			}
 		
 //      System.out.print("배열에 있는 모든 값 : " + Arrays.toString(array));		
+		int max = 0;
+		
 		for(int i = 0; i < array.length; i++) {
 			if(array[i] >= max) {
 				max = array[i];

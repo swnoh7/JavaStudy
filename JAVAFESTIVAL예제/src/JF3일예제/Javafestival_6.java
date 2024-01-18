@@ -1,3 +1,4 @@
+
 package JF3일예제;
 
 import java.util.Scanner;

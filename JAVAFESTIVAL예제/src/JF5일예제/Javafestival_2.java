@@ -12,16 +12,16 @@ public class Javafestival_2 {
 		int[] array = new int[10];
 		
 		
-		for(int i = 0; i < 10; i++) {
-			System.out.print((i+1) + "번 째 정수 입력>> ");
-			array[i] = sc.nextInt();
+		for(int i = 1; i < 11; i++) {
+			System.out.print((i) + "번 째 정수 입력>> ");
+			array[i-1] = sc.nextInt();
 			}
 		
 		System.out.print("3의 배수 : ");
 		
-		for(int i = 0; i < 10; i++) {
-			if(array[i] != 0 && array[i] % 3 == 0) {
-				System.out.print(array[i] + " ");
+		for(int i = 1; i < 11; i++) {
+			if(array[i-1] % 3 == 0) {
+				System.out.print(array[i-1] + " ");
 			}
 		}
 		

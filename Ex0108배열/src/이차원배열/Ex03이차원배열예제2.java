@@ -6,7 +6,7 @@ public class Ex03이차원배열예제2 {
 
 		int[][] array = new int[5][5];
 
-		int num = 21;
+		int num = 1;
 
 		for (int j = 0; j < array.length; j++) {
 			if (j % 2 == 0) {

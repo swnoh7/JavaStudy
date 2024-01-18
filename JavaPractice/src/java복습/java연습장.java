@@ -6,26 +6,21 @@ public class java연습장 {
 
 	public static void main(String[] args) {
 
-	Scanner sc = new Scanner(System.in);
+	String str = "01001101";
 	
-	System.out.print("행 개수 : ");
+	int sum = 0;
+	int cnt = 1;
 	
-	int input = sc.nextInt();
-	
-	for (int j = 1; j < input; j++) {
-		for (int i = 0; i < j; i++) {
-			System.out.print("*");
+	for (int i = str.length() -1; i >= 0; i--) {
+			if(str.charAt(i) == '1') {
+				sum += cnt;
+			}
+			cnt *= 2;
 		}
-		System.out.println();
+	
+	System.out.println(str + "(2)" + "=" + sum + "(10)");
+	
+	
 	}
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	}
+	
 }

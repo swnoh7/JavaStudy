@@ -8,15 +8,20 @@ public class Javafestival_4 {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		int[] array = new int [9];
+		int[] array = new int [5];
 		
-		for (int i = 0; i < 5; i++) {
+		
+		for (int i = 0; i < array.length; i++) {
 			System.out.print(i + "번째 별의 수 : ");
-			int input = sc.nextInt();
-		}
+			array[i] = sc.nextInt();
+				}
 		
-		for (int i = 0; i < input; i++) {
-			System.out.print("*"); 
+		for (int i = 0; i < array.length; i++) {
+			System.out.print(array[i] + ":");
+			for (int j = 0; j < array[i]; j++) {
+				System.out.print("*");
+			}
+			System.out.println();
 		}
 		
 		

@@ -12,7 +12,7 @@ public class Ex01이차원배열생성 {
 		
 		// 1. 이차원 배열 선언방법
 		// 자료형 [][] 변수명 = new 자료형 [행][열];
-		int[][] array = new int[3][3];
+		int[][] array = new int[5][5];
 		
 		System.out.println(array[0][0]);
 		array[1][1] = 5;
@@ -22,7 +22,7 @@ public class Ex01이차원배열생성 {
 		int num = 1;
 		for (int j = 0; j < array.length; j++) {
 			for (int i = 0; i < array.length; i++) {
-				array[j][i] = num++;
+				array[i][j] = num++;
 			}
 		}
 		
