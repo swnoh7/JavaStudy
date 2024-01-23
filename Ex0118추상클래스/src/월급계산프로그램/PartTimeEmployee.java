@@ -35,8 +35,8 @@ public class PartTimeEmployee extends Employee {
 	}
 	
 	//getMoneyPay 
-	public int getMoneyPay() {
-		return pay * workDay;
+	public double getMoneyPay() {
+		return (double) pay * workDay;
 		
 	}
 	

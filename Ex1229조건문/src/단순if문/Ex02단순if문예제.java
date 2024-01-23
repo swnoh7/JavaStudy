@@ -26,19 +26,6 @@ public class Ex02단순if문예제 {
 				System.out.println("3과 5의 배수입니다.");
 			}
 		}
-					
-						
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 		
 	}
 

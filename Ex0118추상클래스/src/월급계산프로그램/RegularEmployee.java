@@ -47,8 +47,8 @@ public class RegularEmployee extends Employee {
 	}
 	
 	//getMoneyPay 
-	public int getMoneyPay() {
-		return (pay + bonus) / 12;
+	public double getMoneyPay() {
+		return (double) (pay + bonus) / 12;
 		
 	}
 

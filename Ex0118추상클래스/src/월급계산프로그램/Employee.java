@@ -13,11 +13,11 @@ public abstract class Employee {
 	protected int pay;
 	
 	
-	public abstract int getMoneyPay();
+	public abstract double getMoneyPay();
 
 	//print
 	public String print() {
-		return empno + ":" + name + ":" + pay;
+		return empno + ":" + name + ":" + getMoneyPay();
 	}
 
 	public Employee (String empno, String name, int pay) {

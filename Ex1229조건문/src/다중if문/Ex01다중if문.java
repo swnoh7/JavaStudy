@@ -40,23 +40,6 @@ public class Ex01다중if문 {
 			System.out.println("짝수입니다!");
 		}
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	}
 
 }

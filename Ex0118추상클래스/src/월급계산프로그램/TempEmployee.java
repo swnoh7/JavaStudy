@@ -29,8 +29,8 @@ public class TempEmployee extends Employee {
 	}
 	
 	//getMoneyPay 
-	public int getMoneyPay() {
-		return pay / 12;
+	public double getMoneyPay() {
+		return (double) pay / 12;
 		
 	}
 	

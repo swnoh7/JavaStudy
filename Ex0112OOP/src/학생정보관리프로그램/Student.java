@@ -40,7 +40,8 @@ public class Student {
 	
 	public Student() {
 	}
-
+	
+	
 
 	// 2. Method
 	// getter 메소드

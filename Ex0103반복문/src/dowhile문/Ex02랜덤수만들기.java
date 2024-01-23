@@ -14,21 +14,6 @@ public class Ex02랜덤수만들기 {
 		// 1~9 추출 (9만 쓸경우 0~8임 그래서 +1해줘야함)
 		int ranNum = ran.nextInt(9)+1;
 		System.out.println(ranNum);
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	}
 
 }

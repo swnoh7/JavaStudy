@@ -16,21 +16,5 @@ public class Ex01단순if문 {
 		if (age>=20) {
 			System.out.println("성인입니다.");				
 		}
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	}
-
 }

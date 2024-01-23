@@ -51,23 +51,6 @@ public class Ex01학점계산프로그램 {
 			break;
 		}
 		System.out.println(grade + "학점입니다.");
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	}
 
 }
